@@ -1,0 +1,99 @@
+package CRUD;
+
+import java.util.ArrayList;
+import java.util.List;
+import CRUD.DB;
+import javax.ws.rs.FormParam;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.QueryParam;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+import javax.ws.rs.core.Response.Status;
+
+import model.Client;
+
+@Path("clients")
+public class Client_Crud {
+	private static List<Client> list_clients;
+	
+	public Client_Crud() {
+		list_clients=DB.getClients();
+	
+	}
+	
+	@GET
+	@Produces(MediaType.TEXT_PLAIN)
+	public Response GetClient() {
+		
+		list_clients=DB.getClients();
+		String retour="<?xml version=\"1.0\"?>";
+		retour+="<list_clients>";
+		for(Client c : list_clients) {
+			retour+="<id>"+c.getId()+"</id>";
+			retour+="<nom>"+c.getNom()+"</nom>";
+			retour+="<prenom>"+c.getPrenom()+"</prenom>";
+		
+		}
+		retour+="</list_clients>";
+		return Response.status(Status.OK).entity(retour).build();
+	}
+	
+	@GET
+	@Produces(MediaType.TEXT_XML)
+	@Path("{id}")
+	public Response GetClientXML(@PathParam(value = "id") int id) {
+
+		list_clients=DB.getClients();
+		
+	    String retour="<?xml version=\"1.0\"?>";
+		retour+="<client>";
+		for(Client c : list_clients) {
+			if(c.getId()==id) {
+			retour+="<id>"+c.getId()+"</id>";
+			retour+="<nom>"+c.getNom()+"</nom>";
+			retour+="<prenom>"+c.getPrenom()+"</prenom>";
+			}
+		}
+		retour+="</client>";
+		return Response.status(Status.OK).entity(retour).build();
+	}
+	
+	@GET
+	@Produces(MediaType.TEXT_XML)
+	@Path("search")
+	public Response GetClientXMLparNom(@QueryParam("nom") String nom) {
+		list_clients=DB.getClients();
+		int cpt=0;		
+	    String retour="<?xml version=\"1.0\"?>";
+		for(Client c : list_clients) {
+			if(nom.equals(c.getNom())) {
+				retour+="<client>";
+			retour+="<id>"+c.getId()+"</id>";
+			retour+="<nom>"+c.getNom()+"</nom>";
+			retour+="<prenom>"+c.getPrenom()+"</prenom>";
+			retour+="</client>";
+			cpt++;
+		}
+		
+		}
+		
+		retour+="<nombre>"+cpt+"</nombre>";
+		return Response.status(Status.OK).entity(retour).build();
+	}
+	
+	@POST
+	@Produces(MediaType.TEXT_PLAIN)
+	public Response PostClient(@FormParam("nom")String nom , @FormParam("prenom")String prenom) {
+		list_clients=DB.getClients();
+		int new_id=DB.getPK()+1;
+		DB.setPK(new_id);
+
+		list_clients.add(new Client(new_id,nom,prenom));
+		return Response.status(Status.CREATED).entity("rest/clients/"+new_id).build();
+	}
+	
+}

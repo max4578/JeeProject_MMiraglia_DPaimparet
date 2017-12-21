@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+      <form action="Vue\\Bienvenue4.jsp" method="post"><table border="1">
+             <tbody>
+                  <tr>
+                      <td>Nom de compte</td>
+                      <td><input type="text" name="login" value="" size="20" /></td>
+                  </tr>
+	<tr>
+                 <tr>
+                      <td>Mot de passe</td>
+                      <td><input type="text" name="pass" value="" size="20" /></td>
+                  </tr>
+                
+	<tr>
+                      
+                      <td> <input type="submit" value="valider" name="validation" /></td>
+                  </tr>
+              </tbody>
+          </table>
+      </form>
+
+</body>
+</html>

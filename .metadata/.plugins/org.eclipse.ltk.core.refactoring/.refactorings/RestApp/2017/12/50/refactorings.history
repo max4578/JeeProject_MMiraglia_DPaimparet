@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 packages to &apos;RestApp2/src&apos;&#x0D;&#x0A;- Original project: &apos;RestApp&apos;&#x0D;&#x0A;- Destination element: &apos;RestApp2/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     RestApp/src/CRUD&#x0D;&#x0A;     RestApp/src/model&#x0D;&#x0A;     RestApp/src/RestTest&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=RestApp2/src" element1="/src&lt;CRUD" element2="/src&lt;model" element3="/src&lt;RestTest" flags="589830" fragments="3" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1512998485736" version="1.0"/>
+</session>

@@ -1,0 +1,57 @@
+package CRUD;
+
+import java.util.ArrayList;
+import java.util.List;
+import CRUD.DB;
+import javax.ws.rs.FormParam;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.QueryParam;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+import javax.ws.rs.core.Response.Status;
+
+import model.Client;
+
+@Path("clients")
+public class Client_Crud {
+	private static List<Client> list_clients;
+	
+	public Client_Crud() {
+		list_clients=DB.getClients();
+	}
+	
+	@GET
+	@Produces(MediaType.TEXT_PLAIN)
+	public Response GetClientJson() {
+		
+	
+		String retour="{";
+		retour+="\"client\":";
+		retour+="[";
+		int cpt=0;
+		for(Client c : list_clients) {
+			retour+=c.getId()+" "+c.getNom()+"  "+c.getPrenom()+"  ";
+			if(cpt>0)
+				retour+=",";
+			retour+="{";
+			retour+="\"nom\":";
+			retour+="\""+c.getNom()+"\":";
+			retour+="\"prenom\":";
+			retour+="\""+c.getPrenom()+"\":";
+			retour+="}";
+			cpt++;
+			
+		
+		}
+		retour+="]";
+		retour+="}";
+		return Response.status(Status.OK).entity(retour).build();
+	}
+	
+
+	
+}
