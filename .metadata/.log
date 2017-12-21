@@ -7136,3 +7136,66 @@ java.lang.IllegalArgumentException: Version 8.0 of project facet jst.appclient d
 
 !ENTRY org.eclipse.jface.text 2 0 2017-12-21 12:58:43.093
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2017-12-21 15:09:07.250
+!MESSAGE Publishing failed
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-12-21 15:09:07.250
+!MESSAGE Could not publish to the server.
+!STACK 0
+java.lang.NullPointerException
+	at oracle.eclipse.tools.glassfish.ExportJavaEEArchive.export(ExportJavaEEArchive.java:46)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:865)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-12-21 15:09:07.250
+!MESSAGE Could not publish to the server.
+!STACK 0
+java.lang.NullPointerException
+	at oracle.eclipse.tools.glassfish.ExportJavaEEArchive.export(ExportJavaEEArchive.java:46)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:865)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-12-21 15:09:07.250
+!MESSAGE Could not publish to the server.
+!STACK 0
+java.lang.NullPointerException
+	at oracle.eclipse.tools.glassfish.ExportJavaEEArchive.export(ExportJavaEEArchive.java:46)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:865)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-12-21 15:09:07.250
+!MESSAGE Could not publish to the server.
+!STACK 0
+java.lang.NullPointerException
+	at oracle.eclipse.tools.glassfish.ExportJavaEEArchive.export(ExportJavaEEArchive.java:46)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:865)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
