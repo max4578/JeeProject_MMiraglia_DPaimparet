@@ -43,4 +43,5 @@
 <fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
 <fullyQualifiedTypeName name="model.Client"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Singleton.Connexion"/>
 </qualifiedTypeNameHistroy>
