@@ -1,0 +1,5 @@
+Connexion projet JEE FitLife
+user : ora34
+mdp : oracle3
+
+nom d'hote : char-oracle11.condorcet.be
