@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="firstAppEAR" key="LASTEARNAME_"/>
+	<item value="Web_ServiceEAR" key="LASTEARNAME_"/>
 	<list key="MRU_RUNTIME_STORE">
 		<item value="GlassFish 4"/>
 	</list>
