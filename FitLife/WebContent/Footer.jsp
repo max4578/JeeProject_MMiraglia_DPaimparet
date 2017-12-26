@@ -2,7 +2,6 @@
     pageEncoding="UTF-8"%>
 <footer>
   <ul>
-     <li>Copyright FitLife</li>
-     <li>contactez-nous</li>
+     <li>Copyright Max et Denis</li>
   </ul>
 </footer>
