@@ -66,4 +66,13 @@
     <servlet-name>C_Connexion</servlet-name>
     <url-pattern>/Connexion</url-pattern>
   </servlet-mapping>
+  
+  <jsp-config>
+  	<jsp-property-group>
+  		<url-pattern>*.jsp</url-pattern>
+  		<page-encoding>UTF-8</page-encoding>
+  		<include-prelude>/taglibs.jsp</include-prelude>
+  	</jsp-property-group>
+  </jsp-config>
+  
 </web-app>

@@ -1,4 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -7,7 +6,8 @@
 </head>
 <body>
 <%@ include file="Menu.jsp" %>
-<p>Page d'accueil</p>
+<p><c:out value="Page d'accueil"></c:out></p>
+<p> <c:out value="test jspl"></c:out> </p>
 <%@ include file="Footer.jsp" %>
 </body>
 </html>
