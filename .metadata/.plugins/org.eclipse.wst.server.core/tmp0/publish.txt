@@ -1,2 +1,7 @@
 #GlassFish 3
+<<<<<<< HEAD
 #Wed Dec 27 14:51:53 CET 2017
+=======
+#Wed Dec 27 11:44:39 CET 2017
+org.eclipse.jst.jee.server\:FitLife=C\:\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\FitLife
+>>>>>>> 75e5be79fe0b9a618be46dcbd938734a0a1c0b63

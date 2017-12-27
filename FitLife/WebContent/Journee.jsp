@@ -2,12 +2,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Accueil</title>
+<title>Insert title here</title>
 </head>
 <body>
 <%@ include file="Menu.jsp" %>
-<p><c:out value="Page d'accueil"></c:out></p>
-<p> <c:out value="test jspl"></c:out> </p>
+<p>Page d'une journée</p>
 <%@ include file="Footer.jsp" %>
 </body>
 </html>
