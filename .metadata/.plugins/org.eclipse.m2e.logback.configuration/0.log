@@ -724,3 +724,251 @@
 2017-12-21 08:47:24,443 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\Workspace_JEE\WORKSPACE\RestApp4\src\test\resources
 2017-12-21 12:44:50,549 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2017-12-22 08:34:54,242 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-26 22:40:47,288 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Web_Service:Web_Service:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\pom.xml.
+2017-12-26 22:41:14,220 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:14,275 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:41:14,279 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:14,290 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:41:14,455 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web_Service/src
+2017-12-26 22:41:14,457 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Web_Service/src/test/java because it overlaps with /Web_Service/src
+2017-12-26 22:41:16,813 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:16,942 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:41:16,943 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:16,956 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:41:18,982 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:18,995 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:41:18,998 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:19,012 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:41:20,303 [Worker-209] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-12-26 22:41:21,351 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Web_Service:Web_Service:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\pom.xml.
+2017-12-26 22:41:23,944 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Web_Service/src
+2017-12-26 22:41:23,944 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Web_Service/src/test/java because it overlaps with /Web_Service/src
+2017-12-26 22:41:25,315 [Worker-209] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Web_Service
+2017-12-26 22:41:25,500 [Worker-209] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-12-26 22:41:26,260 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:26,272 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:41:26,284 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:41:26,296 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:41:26,304 [Worker-213] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Web_Service
+2017-12-26 22:41:26,369 [Worker-213] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Web_Service
+2017-12-26 22:41:26,409 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2017-12-26 22:41:26,461 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:04,005 [Worker-211] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Web_Service:Web_Service:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\pom.xml.
+2017-12-26 22:47:07,981 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:08,065 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:47:08,071 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:08,095 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:47:08,096 [Worker-211] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Web_Service
+2017-12-26 22:47:08,103 [Worker-211] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Web_Service
+2017-12-26 22:47:08,129 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:09,582 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:09,598 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:47:09,604 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:47:09,613 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-26 22:55:36,143 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:55:36,187 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-26 22:55:36,244 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-26 22:55:36,276 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:03:06,921 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:03:07,064 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:03:07,190 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:03:07,204 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:03:37,021 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:03:37,038 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:03:37,046 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:03:37,061 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:05:32,222 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:32,259 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:05:32,273 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:32,306 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:05:41,836 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:41,843 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:05:41,848 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:41,861 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:05:52,039 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:52,049 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:05:52,058 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:05:52,074 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:07:26,971 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:07:26,979 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:07:26,988 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:07:27,009 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:09:19,944 [Worker-232] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Web_Service:Web_Service:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\pom.xml.
+2017-12-27 14:09:22,382 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.26/jersey-media-json-jackson-2.26.pom
+2017-12-27 14:09:22,888 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.26/jersey-media-json-jackson-2.26.pom
+2017-12-27 14:09:22,977 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.pom
+2017-12-27 14:09:23,047 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.pom
+2017-12-27 14:09:23,080 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.26/project-2.26.pom
+2017-12-27 14:09:23,132 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.26/project-2.26.pom
+2017-12-27 14:09:23,177 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.pom
+2017-12-27 14:09:23,225 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.pom
+2017-12-27 14:09:23,265 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2017-12-27 14:09:23,363 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2017-12-27 14:09:23,426 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2017-12-27 14:09:23,518 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2017-12-27 14:09:23,719 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.pom
+2017-12-27 14:09:24,598 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.pom
+2017-12-27 14:09:24,685 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom
+2017-12-27 14:09:24,829 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom
+2017-12-27 14:09:24,867 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.pom
+2017-12-27 14:09:25,041 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.pom
+2017-12-27 14:09:25,130 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4.pom
+2017-12-27 14:09:25,524 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4.pom
+2017-12-27 14:09:25,649 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.26/jersey-media-json-jackson-2.26.jar
+2017-12-27 14:09:26,044 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-json-jackson/2.26/jersey-media-json-jackson-2.26.jar
+2017-12-27 14:09:26,066 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.jar
+2017-12-27 14:09:26,370 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.26/jersey-entity-filtering-2.26.jar
+2017-12-27 14:09:26,393 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.jar
+2017-12-27 14:09:26,470 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.jar
+2017-12-27 14:09:26,501 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.jar
+2017-12-27 14:09:27,740 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.jar
+2017-12-27 14:09:27,761 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar
+2017-12-27 14:09:27,935 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar
+2017-12-27 14:09:28,007 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4.jar
+2017-12-27 14:09:28,685 [Worker-232] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.4/jackson-module-jaxb-annotations-2.8.4.jar
+2017-12-27 14:10:51,816 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:10:52,370 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:10:52,557 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:10:52,573 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:10:52,579 [Worker-232] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Web_Service
+2017-12-27 14:10:52,586 [Worker-232] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Web_Service
+2017-12-27 14:10:52,590 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:11:05,658 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:11:05,666 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:11:05,672 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:11:05,686 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:12:01,629 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:12:01,649 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:12:01,657 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:12:01,672 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:22:01,068 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:22:01,129 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:22:01,185 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:22:01,197 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:22:30,605 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:22:30,617 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:22:30,624 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:22:30,637 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:24:34,477 [Worker-242] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:25:10,007 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:25:10,158 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:25:10,168 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:25:10,182 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:25:10,932 [Worker-242] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FitLife/src
+2017-12-27 14:25:15,116 [Worker-242] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FitLife/src/test/java because it overlaps with /FitLife/src
+2017-12-27 14:25:23,527 [Worker-242] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-12-27 14:25:28,936 [Worker-242] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:25:45,197 [Worker-242] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FitLife/src
+2017-12-27 14:25:48,708 [Worker-242] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FitLife/src/test/java because it overlaps with /FitLife/src
+2017-12-27 14:25:59,447 [Worker-242] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:26:05,386 [Worker-242] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FitLife
+2017-12-27 14:26:28,100 [Worker-242] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 64 sec
+2017-12-27 14:26:30,585 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:26:30,823 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:26:30,832 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:26:30,845 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:26:30,850 [Worker-239] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FitLife
+2017-12-27 14:26:30,850 [Worker-239] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FitLife
+2017-12-27 14:26:30,853 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:26:32,773 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:26:32,821 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\main\resources
+2017-12-27 14:26:32,832 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:26:32,855 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\Web_Service\src\test\resources
+2017-12-27 14:29:39,146 [Worker-256] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:29:41,692 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2017-12-27 14:29:41,889 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom
+2017-12-27 14:29:41,989 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2017-12-27 14:29:42,161 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom
+2017-12-27 14:29:42,386 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2017-12-27 14:29:42,505 [Worker-256] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar
+2017-12-27 14:29:53,415 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:29:53,685 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:29:53,696 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:29:53,712 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:29:53,719 [Worker-256] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FitLife
+2017-12-27 14:29:53,719 [Worker-256] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FitLife
+2017-12-27 14:29:53,729 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:29:58,883 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:29:58,967 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:29:58,969 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:29:59,079 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:31:51,822 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:31:51,984 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:31:51,994 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:31:52,016 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:35:48,736 [Worker-256] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:35:49,540 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:35:49,558 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:35:49,566 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:35:49,576 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:35:49,583 [Worker-256] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FitLife
+2017-12-27 14:35:49,583 [Worker-256] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FitLife
+2017-12-27 14:35:49,596 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:35:51,387 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:35:51,395 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:35:51,397 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:35:51,415 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:36:26,476 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:36:26,496 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:36:26,502 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:36:26,513 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:37:30,074 [Worker-271] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FitLife:FitLife:0.0.1-SNAPSHOT @ C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\pom.xml.
+2017-12-27 14:37:32,289 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:37:32,296 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:37:32,305 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:37:32,323 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:37:32,329 [Worker-271] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FitLife
+2017-12-27 14:37:32,329 [Worker-271] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FitLife
+2017-12-27 14:37:32,340 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:37:34,557 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:37:34,564 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:37:34,567 [Worker-271] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:37:34,579 [Worker-271] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:40:27,086 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:40:27,136 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:40:27,143 [Worker-257] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:40:27,161 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:41:23,034 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:41:23,040 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:41:23,041 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:41:23,060 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:45:47,538 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:45:47,545 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:45:47,584 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:45:47,595 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:45:58,687 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:45:58,693 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:45:58,694 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:45:58,704 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:47:04,766 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:04,779 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:47:04,787 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:04,805 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:47:10,184 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:10,194 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:47:10,195 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:10,214 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:47:52,563 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:52,585 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:47:52,604 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:47:52,623 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:48:36,830 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:48:36,841 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:48:36,842 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:48:36,855 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:48:49,805 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:48:49,815 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:48:49,822 [Worker-276] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:48:49,834 [Worker-276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:49:38,317 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:49:38,326 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:49:38,328 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:49:38,348 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:50:49,668 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:50:49,698 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:50:49,710 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:50:49,747 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources
+2017-12-27 14:50:58,833 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:50:58,848 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\main\resources
+2017-12-27 14:50:58,850 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-27 14:50:58,866 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\FitLife\src\test\resources

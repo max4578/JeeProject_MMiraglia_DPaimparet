@@ -1,7 +1,6 @@
 INDEX VERSION 1.4+C:\Users\maxim\Desktop\WORKSPACE_PROJET_JEEE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 4217516002.index
 1566964173.index
-2069771613.index
 3712710696.index
 2051306076.index
 1764811273.index

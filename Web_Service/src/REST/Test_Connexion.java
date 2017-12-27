@@ -1,4 +1,4 @@
-package CRUD;
+package REST;
 
 import java.sql.Connection;
 import java.sql.SQLException;

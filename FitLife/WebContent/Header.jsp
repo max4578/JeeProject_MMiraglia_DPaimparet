@@ -17,10 +17,14 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">                
                     <li><a href="">Journee</a></li>
+                    <li><a href="">Séance</a></li>
+                    <li><a href="">Mes aliments</a></li>
+                    <li><a href="">Mon compte</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                    
                 </ul>
+               
             </div>
         </div>
     </div>
